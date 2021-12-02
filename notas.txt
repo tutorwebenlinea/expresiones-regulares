@@ -1,0 +1,3 @@
+https://www.tutorialspoint.com/javascript_regexp/javascript_regexp_brackets_lowercase.htm
+
+https://regex-generator.olafneumann.org
